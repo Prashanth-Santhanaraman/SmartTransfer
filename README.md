@@ -33,7 +33,7 @@
 
 2. Run the application:
    ```bash
-   python transfer_engine.py
+   python smartTransfer.py
    ```
 
 ## 🛠️ How it Works
